@@ -3,7 +3,8 @@
 Legacy web app, visit [Flexbox Labs](https://flexboxlabs.netlify.com)
 
 
-CSS Flexbox Tool is a CSS flexbox playground and code generator tool. It's a tool for building layouts using CSS Flexbox.
+CSS Flexbox Tool is a CSS flexbox playground and code generator tool. 
+It's a tool for building layouts using CSS Flexbox.
 
 ## Features
 - Edit properties of the flex container and flex container items.
